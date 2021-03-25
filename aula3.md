@@ -42,7 +42,7 @@
 
 <br>
 
-__obs: Quando uma empresa contrai uma divida, os recursos capitados acabam sendo contado junto aos passivos no caixa e/ou dependendo como esse recurso é utilizado__
+__obs: Quando uma empresa contrai uma divida, os recursos capitados acabam sendo contado junto aos ativos no caixa e/ou dependendo como esse recurso é utilizado__
 
 <br>
  
