@@ -14,11 +14,7 @@ investir é saber alocar os recursos que tenho ao meu dispor, como:
 _gm_ --> ganho mensal <br>
 _vn_ --> valor necessário
 
-## Eu tenho que ter R$10.000.000,00
-### Multiplicarei isso por 10
-
 -------------------------------------
-
 
 coisas que preciso:
 
